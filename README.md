@@ -49,10 +49,3 @@ The second design is inspired by a **mechanical pencil**. The design features an
 2. Use the Onshape interface to inspect the designs or make modifications.
 
 
----
-
-### Notes
-- Replace the `example-link-1` and `example-link-2` in the Onshape links with your actual shared design links.
-- Upload the provided images to the repository in a folder named `images`.
-
-If you have further details you'd like to add, feel free to let me know! 😊
